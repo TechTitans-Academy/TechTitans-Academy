@@ -1,5 +1,5 @@
 <h1 align="center">We are Tech Titans Academy!</h1>
-W’re on a mission to empower aspiring IT professionals with the practical, in-demand skills needed to thrive in today’s fast-evolving tech industry. As a dedicated online learning platform, we focus on career-driven, hands-on training. <br><br>
+We’re on a mission to empower aspiring IT professionals with the practical, in-demand skills needed to thrive in today’s fast-evolving tech industry. As a dedicated online learning platform, we focus on career-driven, hands-on training. <br><br>
 
 We're launching our first training program with Red Hat System Administration, with more courses coming soon in other high-demand technologies.
 <br><br>
