@@ -9,7 +9,7 @@ We're launching our first training program with Red Hat System Administration, w
 
 <b>2. 💻 [DevOps Masterclass](https://github.com/TechTitans-Academy/syllabus)</b>: 🚀 Linux Basics, 🔗 Git & GitHub,⚙️ Jenkins,🛠️ Ansible,  🐳 Docker, ☸️ Kubernetes, 🔄 CI/CD Pipelines.<br>
 
-<b>3.☁️ Cloud Technologies</b>: 🌩️ Amazon Web Services (AWS), 🌐 Google Cloud Platform (GCP), 🏢 Microsoft Azure
+<b>3.☁️ [Cloud Technologies](https://github.com/TechTitans-Academy/syllabus/blob/main/AWS-Hands%20on%20course.md)</b>: 🌩️ Amazon Web Services (AWS), 🌐 Google Cloud Platform (GCP), 🏢 Microsoft Azure
 
 <b>4. 🤖 Crash Course: AI & Your Own ChatGPT </b>[📅 Launching soon — stay tuned!]
 
