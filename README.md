@@ -7,7 +7,7 @@ We're launching our first training program with Red Hat System Administration, w
 
 <b>1. 🐧 [RHCSA EX200](https://github.com/TechTitans-Academy/Red-Hat-Certified-System-Administrator-EX200) </b>: Red Hat Certified System Administrator.
 
-<b>2. 💻 [DevOps Masterclass](https://github.com/TechTitans-Academy/syllabus)</b>: 🚀 Linux Basics, 🔗 Git & GitHub,⚙️ Jenkins,🛠️ Ansible,  🐳 Docker, ☸️ Kubernetes, 🤖 Puppet, 🔄 CI/CD Pipelines.<br>
+<b>2. 💻 [DevOps Masterclass](https://github.com/TechTitans-Academy/syllabus)</b>: 🚀 Linux Basics, 🔗 Git & GitHub,⚙️ Jenkins,🛠️ Ansible,  🐳 Docker, ☸️ Kubernetes, 🔄 CI/CD Pipelines.<br>
 
 <b>3.☁️ Cloud Technologies</b>: 🌩️ Amazon Web Services (AWS), 🌐 Google Cloud Platform (GCP), 🏢 Microsoft Azure
 
