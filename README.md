@@ -16,7 +16,7 @@ We're launching our first training program with Red Hat System Administration, w
 <br><br>
 <b>🌟 Program Highlights and Benefits</b><br>
 
-<b>🧪 Learn by Doing:-</b> Real-time hands-on practical sessions for almost every concept — not just theory.<br>
+<b>🧪 Learn by Doing:-</b> Real-time hands-on practical sessions for every concept — not just theory || No PPT.<br>
 
 <b>📅 Stay on Track with Daily Tasks:-</b> Receive daily follow-up emails with simple tasks to reinforce each lecture.<br>
 
