@@ -14,7 +14,7 @@ We're launching our first training program with Red Hat System Administration, w
 <b>4. 🤖 Crash Course: AI & Your Own ChatGPT </b>[📅 Launching soon — stay tuned!]
 
 <br><br>
-<b>🌟 Why Join Our DevOps Program?</b><br>
+<b>🌟 Program Highlights and Benefits</b><br>
 
 <b>🧪 Learn by Doing:-</b> Real-time hands-on practical sessions for almost every concept — not just theory.<br>
 
